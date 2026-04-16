@@ -1,20 +1,21 @@
 // esercizio n1:
-let num1 = 7;
-let num2 = 11;
-console.log(num1);
-console.log(num2);
 
-let music = "play";
-console.log(music);
+// let num1 = 7;
+// let num2 = 11;
+// console.log(num1);
+// console.log(num2);
 
-music = "streaming";
-console.log(music);
+// let music = "play";
+// console.log(music);
 
-const p_grieco = 3.14159265359;
-console.log(p_grieco);
+// music = "streaming";
+// console.log(music);
 
-p_grieco = 69;
-console.log(p_grieco);
+// const p_grieco = 3.14159265359;
+// console.log(p_grieco);
+
+// p_grieco = 69;
+// console.log(p_grieco);
 
 // esercizio n2:
 // let num_A = 10;
@@ -48,8 +49,12 @@ console.log(p_grieco);
 // console.log(bktk);
 
 // esercizio n4:
+// modo mio:
 // let numeroA = Number (prompt("inserisci numero1"));
 // let numeroB = Number (prompt("inserisci numero2"));
+// tips da Marco:
+// let numeroA = parseInt(prompt("Inserisci primo numero"))
+// let numeroB = parseInt(prompt("Inserisci secondo numero"))
 // console.log(numeroA);
 // console.log(numeroB);
 
