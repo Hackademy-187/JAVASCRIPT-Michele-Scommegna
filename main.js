@@ -57,21 +57,25 @@
 // let numeroB = parseInt(prompt("Inserisci secondo numero"))
 // console.log(numeroA);
 // console.log(numeroB);
-
-// let somma = numeroA + numeroB;
-// let sottrazione = numeroA - numeroB;
-// let moltiplicazione = numeroA * numeroB;
-// let divisione = numeroA / numeroB;
-// let potenza = numeroA ** numeroB;
-
-// let stampConsole = `Con i numeri da te scelti, i risultati delle varie operazioni sono: ${somma}, ${sottrazione}, ${moltiplicazione}, ${divisione}, ${potenza}.`
-// console.log(stampConsole);
-
-// console.log("AL POSTO DI STARE A FARE I CONTI VAI A GIOCARE ALL'APERTO!");
+let numeroA = +prompt("inserisci il primo numero")
+let numeroB = +prompt("inserisci il secondo numero")
+console.log(numeroA);
+console.log(numeroB);
 
 
+let somma = numeroA + numeroB;
+let sottrazione = numeroA - numeroB;
+let moltiplicazione = numeroA * numeroB;
+let divisione = numeroA / numeroB;
+let potenza = numeroA ** numeroB;
+
+let stampConsole = `Con i numeri da te scelti, i risultati delle varie operazioni sono: ${somma}, ${sottrazione}, ${moltiplicazione}, ${divisione}, ${potenza}.`
+console.log(stampConsole);
+
+console.log("AL POSTO DI STARE A FARE I CONTI VAI A GIOCARE ALL'APERTO!!!");
 
 
 
 
- 
+
+
